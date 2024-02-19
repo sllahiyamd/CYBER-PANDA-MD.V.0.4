@@ -3,7 +3,7 @@ const chalk = require("chalk");
 
 
 //
-global.available = true;
+global.available = false;
 global.autoReadAll = false;
 global.antitags = true;
 
@@ -21,11 +21,11 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["+94710756748", "+94710756748"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94710756748", "+94710756748"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
-global.BotName = "DARK SHAM";
+global.OwnerName = "SL-lahiya-MD";
+global.BotName = "SL-lahiya-MD";
 global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
 global.author = "KUSHAN";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
